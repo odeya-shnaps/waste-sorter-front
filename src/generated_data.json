@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "date": "27-05-22 10:00PM",
+    "image_name": "image1.png",
+    "result": "plastic"
+  },
+  {
+    "id": 2,
+    "date": "27-05-22 11:00PM",
+    "image_name": "image2.png",
+    "result": "cardboard"
+  },
+  {
+    "id": 3,
+    "date": "28-05-22 12:00AM",
+    "image_name": "image3.png",
+    "result": "cardboard"
+  },
+  {
+    "id": 4,
+    "date": "28-05-22 01:00AM",
+    "image_name": "image4.png",
+    "result": "paper"
+  },
+  {
+    "id": 5,
+    "date": "28-05-22 02:00AM",
+    "image_name": "image5.png",
+    "result": "trash"
+  },
+  {
+    "id": 6,
+    "date": "28-05-22 03:00AM",
+    "image_name": "image6.png",
+    "result": "glass"
+  },
+  {
+    "id": 7,
+    "date": "28-05-22 04:00AM",
+    "image_name": "image7.png",
+    "result": "cardboard"
+  },
+  {
+    "id": 8,
+    "date": "28-05-22 05:00AM",
+    "image_name": "image8.png",
+    "result": "cardboard"
+  },
+  {
+    "id": 9,
+    "date": "28-05-22 06:00AM",
+    "image_name": "image9.png",
+    "result": "trash"
+  },
+  {
+    "id": 10,
+    "date": "28-05-22 07:00AM",
+    "image_name": "image10.png",
+    "result": "metal"
+  },
+  {
+    "id": 11,
+    "date": "28-05-22 08:00AM",
+    "image_name": "image11.png",
+    "result": "metal"
+  },
+  {
+    "id": 12,
+    "date": "28-05-22 09:00AM",
+    "image_name": "image12.png",
+    "result": "plastic"
+  },
+  {
+    "id": 13,
+    "date": "28-05-22 10:00AM",
+    "image_name": "image13.png",
+    "result": "glass"
+  },
+  {
+    "id": 14,
+    "date": "28-05-22 11:00AM",
+    "image_name": "image14.png",
+    "result": "trash"
+  },
+  {
+    "id": 15,
+    "date": "28-05-22 12:00PM",
+    "image_name": "image15.png",
+    "result": "plastic"
+  },
+  {
+    "id": 16,
+    "date": "28-05-22 01:00PM",
+    "image_name": "image16.png",
+    "result": "metal"
+  },
+  {
+    "id": 17,
+    "date": "28-05-22 02:00PM",
+    "image_name": "image17.png",
+    "result": "paper"
+  },
+  {
+    "id": 18,
+    "date": "28-05-22 03:00PM",
+    "image_name": "image18.png",
+    "result": "trash"
+  },
+  {
+    "id": 19,
+    "date": "28-05-22 04:00PM",
+    "image_name": "image19.png",
+    "result": "plastic"
+  },
+  {
+    "id": 20,
+    "date": "28-05-22 05:00PM",
+    "image_name": "image20.png",
+    "result": "glass"
+  },
+  {
+    "id": 21,
+    "date": "28-05-22 06:00PM",
+    "image_name": "image21.png",
+    "result": "metal"
+  },
+  {
+    "id": 22,
+    "date": "28-05-22 07:00PM",
+    "image_name": "image22.png",
+    "result": "metal"
+  },
+  {
+    "id": 23,
+    "date": "28-05-22 08:00PM",
+    "image_name": "image23.png",
+    "result": "cardboard"
+  },
+  {
+    "id": 24,
+    "date": "28-05-22 09:00PM",
+    "image_name": "image24.png",
+    "result": "glass"
+  },
+  {
+    "id": 25,
+    "date": "28-05-22 10:00PM",
+    "image_name": "image25.png",
+    "result": "paper"
+  },
+  {
+    "id": 26,
+    "date": "28-05-22 11:00PM",
+    "image_name": "image26.png",
+    "result": "plastic"
+  },
+  {
+    "id": 27,
+    "date": "29-05-22 12:00AM",
+    "image_name": "image27.png",
+    "result": "trash"
+  },
+  {
+    "id": 28,
+    "date": "29-05-22 01:00AM",
+    "image_name": "image28.png",
+    "result": "metal"
+  },
+  {
+    "id": 29,
+    "date": "29-05-22 02:00AM",
+    "image_name": "image29.png",
+    "result": "cardboard"
+  },
+  {
+    "id": 30,
+    "date": "29-05-22 03:00AM",
+    "image_name": "image30.png",
+    "result": "trash"
+  }
+]
