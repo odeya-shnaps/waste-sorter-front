@@ -41,7 +41,7 @@ export const uploadImages = createAsyncThunk(
 
       // Parse the JSON response
       const data: ApiResponse = await response.json();
-      console.log(data.message);
+      console.log(`result: ${data.message}`);
       return data;
     } catch (err) {
       // Handle and log the error
